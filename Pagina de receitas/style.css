@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    background-color: #EAEAEA;
+  
+}
+h1{
+    text-align: center;
+    margin: 25px;
+    font-family: 'Roboto';
+    font-size: 28px;
+    font-weight: 700;
+    color: #1B1B1B;
+    
+}
+h2{
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 25px ;
+    padding-bottom: 15px;
+    color: #1B1B1B;
+}
+li{
+    padding-left: 25px;
+    padding-bottom: 10px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    color: #39393A;
+}
+ol{
+    padding-left: 47px;
+
+}
+p{
+    text-align: center;
+    color:#8F8F8F;
+}
+footer{
+    padding: 25px;
+}
+.mp{
+    padding-left: 5px;
+}
+#back{
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    max-width: 900px;
+    max-height: 90%;
+    border-radius: 15px;
+}
+#waffle{
+    text-align: center;
+    margin: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#waffle-img{
+    background-image: url('backen-de-NkOa_FdAsWA-unsplash.jpg');
+    background-size: cover;
+    width:100%;
+    height:250px;
+    border-radius: 15px;
+}
+#sub{
+    text-align: end;
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: 400;
+
+}
+#id{
+    padding-bottom: 15px;
+}
+span{
+    color: purple;
+}
+#pe{
+    text-align: center;
+}
+
+
